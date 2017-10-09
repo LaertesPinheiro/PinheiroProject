@@ -1,0 +1,12 @@
+<html> 
+<body>
+
+<form>
+Primeiro nome: 
+<input type="text" name="firstname" required>
+<br>
+Último nome: 
+<input type="text" name="lastname" required>
+</form>
+</body>
+</html>
